@@ -16,3 +16,5 @@ git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
 Y si quereis poner un link tendreis que poner [Nombre_que_aparezca](https://www.zooplus.es/magazine/gatos/gatitos)
 ![Aqui ponemos una pequeña descripcion de la imagen para las personas que ni pueden ver y para que el buscador nos posicione mejor](https://i.blogs.es/6717aa/camera-traps---ru/450_1000.jpg)
+<img src="https://i.blogs.es/6717aa/camera-traps---ru/450_1000.jpg" alt ="descripcion en html" width="100"
+heigth="100">
