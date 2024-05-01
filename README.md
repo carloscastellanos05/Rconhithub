@@ -3,7 +3,7 @@
 ### Esto es subtitulo de tercer nivel
 
 Para escribir se escribe normal si quiero **negrita** uso **** antes y despues de la palabra. Si quiero *cursiva* bastara con 1 *.
-***Quiero en cursiva y en negrita*** pero si **quiero que toda la frase este en negrita pero solo _alguna palabra_ cursiva.
+***Quiero en cursiva y en negrita*** pero si **quiero que toda la frase este en negrita pero solo _alguna palabra_ cursiva**.
 
 Esto es un sub<sub>indice</sub>
 Esto es un supra<sup>indice</sub> por ejemplo X<sup>2</sup>.
