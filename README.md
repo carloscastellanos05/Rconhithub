@@ -6,7 +6,7 @@ Para escribir se escribe normal si quiero **negrita** uso **** antes y despues d
 ***Quiero en cursiva y en negrita*** pero si **quiero que toda la frase este en negrita pero solo _alguna palabra_ cursiva**.
 
 Esto es un sub<sub>indice</sub>
-Esto es un supra<sup>indice</sub> por ejemplo X<sup>2</sup>.
+Esto es un supra<sup>indice</sup> por ejemplo X<sup>2</sup>.
 para meter `codigo` usamos las comillas que solemos usar en `dplyr`. Si por ejemplo queremos poner un bloque de codigo:
 ```
 git status
