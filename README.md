@@ -38,6 +38,7 @@ tambien hay emojis. :+1: o :shipit: por ejemplo
 
 > [!NOTE]
 > informacion util que quiero puntualizar.
+
 > [!TIP]
 > Consejos sobre como
 
