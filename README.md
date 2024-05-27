@@ -19,20 +19,19 @@ Y si quereis poner un link tendreis que poner [Nombre_que_aparezca](https://www.
 <img src="https://i.blogs.es/6717aa/camera-traps---ru/450_1000.jpg" alt ="descripcion en html" width="100"
 heigth="100">
 
-si quieres una lista puedes usar_
--esto
--otro
+si quieres una lista puedes usar:
+- esto
+- otro
 
 o:
-+el plus
++ el plus
 
 si quiero que sea una lista ordenada
 1. drf
 2. smlfv
 3. sdfol
 
-esto lo desarrollare en nota al pie[^1]
-
+esto lo desarrollare en nota al pie[^1] PERO AQUI PUEDO SEGUIR
 [^1]:que desarrollare aqui
 tambien hay emojis. :+1: o :shipit: por ejemplo
 
